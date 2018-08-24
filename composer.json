@@ -1,0 +1,19 @@
+{
+    "name": "aquaz/wechat",
+    "description": "laravel-wechat",
+    "type": "library",
+    "authors": [
+        {
+            "name": "aquaz",
+            "email": "qizhao0123@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Aquaz\\Wechat\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.5.9"
+    }
+}
